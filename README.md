@@ -13,7 +13,7 @@ O objetivo deste repositório é documentar minha jornada de aprendizado sobre o
 *(Mais capítulos serão adicionados conforme o progresso da leitura)*
 
 ## 🛠️ Tecnologias Utilizadas
-- **Python 3.x**
+- **Python 3.12.9**
 - (Outras bibliotecas adicionadas futuramente)
 
 ## 🚀 Como Executar

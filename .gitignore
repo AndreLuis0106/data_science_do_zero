@@ -1,0 +1,24 @@
+# Virtual environments
+ds_env/
+data_science_do_zero/
+cap_2_python/
+venv/
+env/
+.venv/
+.env/
+venv_wsl/
+.venv_wsl
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp

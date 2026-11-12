@@ -7,10 +7,11 @@ O objetivo deste repositório é documentar minha jornada de aprendizado sobre o
 
 ## 📁 Estrutura do Repositório
 
-- `/capitulo_1_introdução/`: Conceitos introdutórios, motivação e primeiros exemplos práticos.
-- `/capitulo_2_python/`: Um curso intensivo de Python, relembrando os fundamentos da linguagem que serão utilizados ao longo do livro.
-- `/capitulo_3_visualozando_dados/`: Gráficos mais comumente usados para explorar e comunicar dados.
-- `/capitulo_4_algebra_linear/`: Introdução ao básico de Álgebra Linear, como vetores, matrizes e suas operações
+- `/capitulo_1_introdução/`: Conceitos introdutórios, motivação e primeiros exemplos práticos;
+- `/capitulo_2_python/`: Um curso intensivo de Python, relembrando os fundamentos da linguagem que serão utilizados ao longo do livro;
+- `/capitulo_3_visualozando_dados/`: Gráficos mais comumente usados para explorar e comunicar dados;
+- `/capitulo_4_algebra_linear/`: Introdução ao básico de Álgebra Linear, como vetores, matrizes e suas operações;
+- `/capitulo_5_estatistica/`: Introdução ao básico de Estatística, como contagem, média, mediana ...; 
 
 *(Mais capítulos serão adicionados conforme o progresso da leitura)*
 
